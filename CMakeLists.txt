@@ -55,6 +55,7 @@ find_package(catkin REQUIRED COMPONENTS
    FILES
    HumanMarker.msg
    HumanArray.msg
+   TwistArray.msg
  )
 
 ## Generate services in the 'srv' folder
